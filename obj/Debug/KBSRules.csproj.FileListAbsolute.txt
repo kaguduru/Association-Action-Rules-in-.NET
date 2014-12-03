@@ -1,0 +1,10 @@
+c:\users\krishnamohanreddy\documents\visual studio 2013\Projects\KBSRules\KBSRules\bin\Debug\KBSRules.exe.config
+c:\users\krishnamohanreddy\documents\visual studio 2013\Projects\KBSRules\KBSRules\bin\Debug\KBSRules.exe
+c:\users\krishnamohanreddy\documents\visual studio 2013\Projects\KBSRules\KBSRules\bin\Debug\KBSRules.pdb
+c:\users\krishnamohanreddy\documents\visual studio 2013\Projects\KBSRules\KBSRules\obj\Debug\KBSRules.Form1.resources
+c:\users\krishnamohanreddy\documents\visual studio 2013\Projects\KBSRules\KBSRules\obj\Debug\KBSRules.Properties.Resources.resources
+c:\users\krishnamohanreddy\documents\visual studio 2013\Projects\KBSRules\KBSRules\obj\Debug\KBSRules.csproj.GenerateResource.Cache
+c:\users\krishnamohanreddy\documents\visual studio 2013\Projects\KBSRules\KBSRules\obj\Debug\KBSRules.exe
+c:\users\krishnamohanreddy\documents\visual studio 2013\Projects\KBSRules\KBSRules\obj\Debug\KBSRules.pdb
+C:\Users\KrishnaMohanReddy\Documents\Visual Studio 2013\Projects\KBSRules\KBSRules\obj\Debug\KBSRules.csprojResolveAssemblyReference.cache
+C:\Users\KrishnaMohanReddy\documents\visual studio 2013\Projects\KBSRules\KBSRules\obj\Debug\KBSRules.ActionRulesDisplay.resources
